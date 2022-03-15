@@ -10,7 +10,8 @@ https://isabelkarimi.github.io/ip3/
 
 Technologies 
 HTML5 
-CSS3 Javascript and Jquery Bootstrap 4
+CSS3 
+Javascript and Jquery Bootstrap 4
 
 Contact Email: Isabelkarimi7@gmail.com
 
