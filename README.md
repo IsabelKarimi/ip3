@@ -2,7 +2,8 @@
 Author 
 Isabel Karimi
 
-Description This is a website for a studio called Delani which is a fictional studio. The reason for building the website is to hone my Bootstrap and Jquery skills.
+Description 
+This is a website for a studio called Delani which is a fictional studio. The reason for building the website is to hone my Bootstrap and Jquery skills.
 
 this project's live link; https://isabelkarimi.github.io/ip3/
 
