@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+.mouse {
+    margin-top: 10vh;
+}
+
+.home {
+    background-image: url("./images/backgrounds/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.my_container {
+    margin-top: 30vh;
+    position: absolute;
+    left: 25vh;
+    color: white;
+}
+
+.services {
+    background-image: url("./images/backgrounds/service.png");
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.mycont {
+    position: absolute;
+    color: white;
+    left: 25vh;
+    top: 10vh;
+}
+
+.portfolio {
+    margin-top: 20vh;
+}
+
+.portfolio img {
+    width: 250px;
+    padding-top: 10px;
+}
+
+.contact-section {
+    margin-top: 10vh;
+    background-image: url("./images/backgrounds/c_image.jpg");
+    height: 100vh;
+    position: relative;
+}
+
+.lecont {
+    position: absolute;
+    left: 25vh;
+    top: 10vh;
+}
+
+.texts {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.foot {
+    margin-top: 10vh;
+}
+
+.text input {
+    height: 150px;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.pic {
+    margin-top: 10vh;
+}
+
+.icons-section {
+    margin-top: 10vh;
+}
+
+.iconrow {
+    margin-left: 10vh;
+}
+
+.designtxt {
+    display: none;
+}
+
+.devtxt {
+    display: none;
+}
+
+.prodtxt {
+    display: none;
+}
