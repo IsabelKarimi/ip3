@@ -1,4 +1,6 @@
-
+$("#designimg").click(function() {
+    $(this).hide();
+    $("#designtxt").removeClass("designtxt");
 });
 $("#devimg").click(function() {
     $(this).hide();
